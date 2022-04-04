@@ -1,0 +1,56 @@
+body{
+    background-image: url(https://www.solofondos.com/wp-content/uploads/2015/11/fondo-para-paginas-web-profesionales-3d-grandes.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    color: white;
+}
+
+#titulo {
+    color: white !important;
+}
+
+.imgTeclado {
+    height: 200px;
+    width: 200px;
+    margin-left: 30px;
+}
+
+.textoTeclado {
+    color: chocolate;
+}
+
+.sectionContenido {
+    float: left;
+    margin-top: 30px;
+    width: 55%;
+    margin-left: 2%;
+}
+
+.asidePublicidad {
+    float: left;
+    margin-top: 30px;
+    width: 20%;
+    margin-left: 2%;
+}
+
+.videoAside {
+    width: 320px;
+    height: 220px; 
+}
+
+#textNvidia {
+    color: greenyellow;
+}
+
+#textAMD {
+    color: red;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+table {
+    width: 100%;
+}
